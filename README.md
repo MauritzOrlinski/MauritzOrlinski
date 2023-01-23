@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, I'm Mauritz Orlinski. Some Quick Facts about me:
+- I'm German
+- I love computer Science 
+- I also really enjoy maths
+- In my free time I like to work on some of my private projects
+- My current favourite algorithm is the Kruskal Algorithm for solving MST or the radix sort for sorting in linear time, I like them because they both are based on such simple but still genius ideas  
 
-<!--
-**MauritzOrlinski/MauritzOrlinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects:
+Most of my projects are science related. I like to program math or physics applications. Also I enjoy comp sci projects focusing on implementing algorithms or datastructures.
+Most of my Projects aren't public. 
 
-Here are some ideas to get you started:
+## Langueges
+- Java
+- Python
+- R
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently Learning:
+- C++
+- Typescript
