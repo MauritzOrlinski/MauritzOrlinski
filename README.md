@@ -15,6 +15,7 @@ Most of my Projects aren't public.
 - R
 - C
 - JavaScript
+- HTML + CSS or Tailwind CSS
 
 ### currently learning:
 - C++
