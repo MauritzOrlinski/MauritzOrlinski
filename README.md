@@ -14,6 +14,7 @@ Most of my Projects aren't public.
 - Python
 - R
 - C
+- JavaScript
 
 ### currently learning:
 - C++
