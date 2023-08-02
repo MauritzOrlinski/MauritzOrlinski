@@ -18,5 +18,5 @@ Most of my Projects aren't public.
 - HTML + CSS or Tailwind CSS
 
 ### currently learning:
-- C++
+- Rust
 - Typescript
