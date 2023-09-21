@@ -14,9 +14,9 @@ Most of my Projects aren't public.
 - Python
 - R
 - C
-- JavaScript
+- JavaScript / Typescript
 - HTML + CSS or Tailwind CSS
 
 ### currently learning:
 - Rust
-- Typescript
+
