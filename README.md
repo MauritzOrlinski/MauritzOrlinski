@@ -17,6 +17,7 @@ Most of my Projects aren't public.
 - C
 - JavaScript / Typescript
 - HTML + CSS or Tailwind CSS
+- Go
 
 ### currently learning
 - haskell
