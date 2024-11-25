@@ -1,6 +1,6 @@
 Hi, I'm Mauritz Orlinski. Some Quick Facts about me:
 - I'm German
-- I'm a student at the Technical University Munich
+- I study maths (LMU) and CS (TUM) in Munich, Germany 
 - I love computer science and maths
 - I also enjoy comlutational physics and a bit of engineering
 - in my free time I like to develop some of my private projects 
