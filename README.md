@@ -21,8 +21,9 @@ Most of my Projects aren't public.
 
 ### currently learning
 - C++
+- Rust
 
 
 ### planning to learn someday
-- Rust
+- isabelle
 
