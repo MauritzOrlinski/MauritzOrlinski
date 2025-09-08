@@ -10,19 +10,16 @@ Most of my projects are science related. I like to program maths or physics appl
 Most of my Projects aren't public. 
 
 ## Languages
-- C
+- C/C++ with x86_64 ASM or RISC V
 - Ocaml
 - Java
 - Python
 - JavaScript / Typescript
 - HTML + CSS or Tailwind CSS
 - R
-- Go
 
 ### currently learning
-- C++
 - Rust
-
 
 ### planning to learn someday
 - isabelle
