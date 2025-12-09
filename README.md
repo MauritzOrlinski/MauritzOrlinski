@@ -16,14 +16,13 @@ Currently most of my Projects aren't public.
 - Ocaml
 - Python
 ### Advanced
+- Rust
 - Java
 - JavaScript / Typescript
 - HTML + CSS or Tailwind CSS
 ### Basics
 - R
 
-### currently learning
-- Rust
 
 ### planning to learn someday
 - isabelle/HOL
